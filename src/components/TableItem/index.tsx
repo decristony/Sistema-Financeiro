@@ -1,6 +1,5 @@
 import * as C from "./styles";
 import { Item } from "../../types/item";
-import { items } from "../../data/items";
 import { formateDate } from "../../helpers/dateFilter";
 import { categories } from "../../data/categories";
 
